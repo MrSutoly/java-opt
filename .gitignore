@@ -1,4 +1,6 @@
 target/
+build/
+.gradle/
 .settings/
 .classpath
 .project
@@ -7,3 +9,7 @@ target/
 .vscode/
 .sts4-cache/
 HELP.md
+*.log
+logs/
+.DS_Store
+Thumbs.db
